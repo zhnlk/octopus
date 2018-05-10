@@ -1,6 +1,6 @@
 import datetime
 from sqlalchemy import desc
-from SpiderKeeper.app import db, Base
+from Octopus.app import db, Base
 
 
 class Project(Base):

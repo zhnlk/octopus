@@ -2,8 +2,8 @@ import datetime
 import random
 from functools import reduce
 
-from SpiderKeeper.app import db
-from SpiderKeeper.app.spider.model import SpiderStatus, JobExecution, JobInstance, Project, JobPriority
+from Octopus.app import db
+from Octopus.app.spider.model import SpiderStatus, JobExecution, JobInstance, Project, JobPriority
 
 
 class SpiderServiceProxy(object):

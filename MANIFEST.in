@@ -1,2 +1,2 @@
-recursive-include SpiderKeeper/app/templates *
-recursive-include SpiderKeeper/app/static *
+recursive-include Octopus/app/templates *
+recursive-include Octopus/app/static *
